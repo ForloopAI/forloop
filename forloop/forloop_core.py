@@ -1,5 +1,6 @@
 
 import requests
+import json
 
 class ForloopClient:
     def __init__(self, key=None, secret=None, url=None):
@@ -18,6 +19,27 @@ class ForloopClient:
         print(response,response.content)
         
         result=response.json()["results"]
+        return(result)
+
+
+    def analyze_data(self,filename):
+        payload={"filename":filename}
+        response=requests.post(self.url+"/api/v1/analyze_data",data=json.dumps(payload))
+        
+        
+        #print("RESPONSE",response,response.content)
+        
+        
+        result=response.json()#["results"]
+        return(result)
+
+
+    def clean_data(self,filename):
+        payload={"filename":filename}
+        response=requests.post(self.url+"/api/v1/clean_data",data=json.dumps(payload))
+        
+        
+        result=pd.read_pickle("C:\\Users\\EUROCOM\\Documents\\Git\\ForloopAI\\forloop_platform_dominik\\cleaned_data.pkl")
         return(result)
 
 
