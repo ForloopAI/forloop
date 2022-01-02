@@ -41,6 +41,25 @@ class ForloopClient:
         
         result=pd.read_pickle("C:\\Users\\EUROCOM\\Documents\\Git\\ForloopAI\\forloop_platform_dominik\\cleaned_data.pkl")
         return(result)
+    
+    
+    def run_python_script(self,filename,dir_path):
+        #dir_path="C:\\Users\\EUROCOM\\Documents\\Git\\ForloopAI\\forloop_api"
+        
+        payload={"filename":filename,"dir_path":dir_path}
+        
+        response=requests.post(self.url+"/api/v1/run_python_script",data=json.dumps(payload))
+        
+        
+        print("RESPONSE",response,response.content)
+        
+        
+        result=response.json()#["results"]
+        return(result)
+
+
+    
+    
 
 
 
