@@ -8,6 +8,9 @@ www.forloop.ai
 
 forloop is a Python library for easy automation and setting up of data preparation pipelines. Covering tasks from webscraping, API connectors to cleaning and exploratory data analysis.
 
+
+![picture](https://img.shields.io/github/stars/ForloopAI/forloop?style=social)
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install forloop.
