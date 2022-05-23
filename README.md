@@ -5,8 +5,14 @@ Forloop.ai platform - package containing public API commands
 See our website for public release
 www.forloop.ai
 
+Join our Slack community
+https://join.slack.com/t/forloopaicommunity/shared_invite/zt-17bdp5hmc-Uu~IMg9F7W6uHUenUY_m5A
+
 
 forloop is a Python library for easy automation and setting up of data preparation pipelines. Covering tasks from webscraping, API connectors to cleaning and exploratory data analysis.
+
+
+![picture](https://img.shields.io/github/stars/ForloopAI/forloop?style=social)
 
 ## Installation
 
