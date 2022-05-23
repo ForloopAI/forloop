@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     
 setuptools.setup(
     name='forloop',
-    version='0.5.2',
+    version='0.6.0',
     author='DovaX',
     author_email='dominik@forloop.ai',
     description='Forloop.ai platform - package containing public API commands',
