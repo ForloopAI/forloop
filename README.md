@@ -46,7 +46,7 @@ print(cleaned_data)
 
 More examples will be gradually added in the folder Examples.
 
-## Demo of the platform
+## More demos of the platform
 
 (Downloadable at app.forloop.ai)
 
