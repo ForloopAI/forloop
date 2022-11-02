@@ -1,21 +1,17 @@
 # Forloop
 
-This is a public API repository allowing users to use [www.forloop.ai](Forloop.ai) platform directly as a Python library
+This is a public API repository allowing users to use [Forloop.ai](www.forloop.ai) platform directly as a Python library
 
-Forloop is a Python library focusing on easy automation and setting up of data extraction and data preparation pipelines. Covering tasks from webscraping, over cleaning, transformations and exploratory data analysis to orchestration and working with databases.
+Forloop is a new tool and a Python library focusing on easy automation and setting up of data extraction and data preparation pipelines. Covering tasks from webscraping, over cleaning, transformations and exploratory data analysis to orchestration and working with databases.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install forloop as a Python library.
+In order to obtain a full version of Forloop including the no-code interface please register and download the platform from [app.forloop.ai](app.forloop.ai).
+For simplified version use the package manager [pip](https://pip.pypa.io/en/stable/) to install forloop as a Python library.
 
 ```bash
 pip install forloop
 ```
-
-In order to obtain a full version of Forloop including the no-code interface please register and download the platform from [app.forloop.ai](app.forloop.ai).
-
-Join our Slack community
-https://join.slack.com/t/forloopaicommunity/shared_invite/zt-17bdp5hmc-Uu~IMg9F7W6uHUenUY_m5A
 
 
 
@@ -23,7 +19,15 @@ https://join.slack.com/t/forloopaicommunity/shared_invite/zt-17bdp5hmc-Uu~IMg9F7
 ![pagegif_1_3](https://user-images.githubusercontent.com/29150831/199597423-a9888164-9eef-4e97-b822-18d8c79cd21b.gif)
 
 
-## Usage
+## Getting started
+
+Download our desktop app directly from our website [app.forloop.ai](app.forloop.ai) or use our platform directly from Python as a library
+
+See our [documentation](http://app.forloop.ai/documentation/) to quickly start using Forloop.ai platform
+
+Please join our [Slack community](https://join.slack.com/t/forloopaicommunity/shared_invite/zt-17bdp5hmc-Uu~IMg9F7W6uHUenUY_m5A) and ask questions, we will help you!
+
+## Usage of Python library
 Download our desktop app directly from our website [app.forloop.ai](app.forloop.ai) or use our platform directly from Python as a library
 
 ```python
