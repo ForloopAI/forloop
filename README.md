@@ -1,6 +1,6 @@
 # Forloop
 
-This is a public API repository allowing users to use Forloop.ai platform directly as a Python library
+This is a public API repository allowing users to use [www.forloop.ai](Forloop.ai) platform directly as a Python library
 
 Forloop is a Python library focusing on easy automation and setting up of data extraction and data preparation pipelines. Covering tasks from webscraping, over cleaning, transformations and exploratory data analysis to orchestration and working with databases.
 
@@ -12,7 +12,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install forloop
 pip install forloop
 ```
 
-In order to obtain a full version of Forloop including the No-code interface please visit our website [app.forloop.ai](app.forloop.ai).
+In order to obtain a full version of Forloop including the No-code interface please register and download the platform at our website [app.forloop.ai](app.forloop.ai).
 
 Join our Slack community
 https://join.slack.com/t/forloopaicommunity/shared_invite/zt-17bdp5hmc-Uu~IMg9F7W6uHUenUY_m5A
@@ -24,7 +24,7 @@ https://join.slack.com/t/forloopaicommunity/shared_invite/zt-17bdp5hmc-Uu~IMg9F7
 
 
 ## Usage
-Download our desktop APP directly from our website www.forloop.ai or use our platform directly from python as a library
+Download our desktop app directly from our website [app.forloop.ai](app.forloop.ai) or use our platform directly from Python as a library
 
 ```python
 import forloop.forloop_core as flcore
