@@ -7,14 +7,14 @@ Forloop is a new tool and a Python library focusing on easy automation and setti
 ## Installation
 
 In order to obtain a full version of Forloop including the no-code interface please register and download the platform from [app.forloop.ai](app.forloop.ai).
-For simplified version use the package manager [pip](https://pip.pypa.io/en/stable/) to install forloop as a Python library.
+
+For simplified API version you can use the package manager [pip](https://pip.pypa.io/en/stable/) to install forloop as a Python library.
 
 ```bash
 pip install forloop
 ```
 
-
-
+## Demo
 
 ![pagegif_1_3](https://user-images.githubusercontent.com/29150831/199597423-a9888164-9eef-4e97-b822-18d8c79cd21b.gif)
 
@@ -47,12 +47,15 @@ print(cleaned_data)
 More examples will be gradually added in the folder Examples.
 
 ## Demo of the platform
+
 (Downloadable at app.forloop.ai)
 
 Intelligent data cleaning
+
 ![pagegif_2_3](https://user-images.githubusercontent.com/29150831/199597480-618785be-98f4-44ac-8294-7e31e2c8c5e7.gif)
 
 Smooth mapping between code and no-code
+
 ![pagegif_3](https://user-images.githubusercontent.com/29150831/199597510-5a74d8eb-ba22-419e-86ae-372bb953a65a.gif)
 
 
