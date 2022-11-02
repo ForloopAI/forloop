@@ -6,14 +6,13 @@ Forloop is a Python library focusing on easy automation and setting up of data e
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install forloop.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install forloop as a Python library.
 
 ```bash
 pip install forloop
 ```
 
-See our website for public release
-www.forloop.ai
+In order to obtain a full version of Forloop including the No-code interface please visit our website [app.forloop.ai](app.forloop.ai).
 
 Join our Slack community
 https://join.slack.com/t/forloopaicommunity/shared_invite/zt-17bdp5hmc-Uu~IMg9F7W6uHUenUY_m5A
