@@ -45,7 +45,11 @@ More examples will be gradually added in the folder Examples.
 
 ## Demo of the platform
 (Downloadable at app.forloop.ai)
+
+Intelligent data cleaning
 ![pagegif_2_3](https://user-images.githubusercontent.com/29150831/199597480-618785be-98f4-44ac-8294-7e31e2c8c5e7.gif)
+
+Smooth mapping between code and no-code
 ![pagegif_3](https://user-images.githubusercontent.com/29150831/199597510-5a74d8eb-ba22-419e-86ae-372bb953a65a.gif)
 
 
