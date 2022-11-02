@@ -12,7 +12,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install forloop
 pip install forloop
 ```
 
-In order to obtain a full version of Forloop including the No-code interface please register and download the platform at our website [app.forloop.ai](app.forloop.ai).
+In order to obtain a full version of Forloop including the no-code interface please register and download the platform from [app.forloop.ai](app.forloop.ai).
 
 Join our Slack community
 https://join.slack.com/t/forloopaicommunity/shared_invite/zt-17bdp5hmc-Uu~IMg9F7W6uHUenUY_m5A
