@@ -19,6 +19,11 @@ pip install forloop
 ![pagegif_1_3](https://user-images.githubusercontent.com/29150831/199597423-a9888164-9eef-4e97-b822-18d8c79cd21b.gif)
 
 
+## New cloud version (coming soon)
+
+![obrazek](https://user-images.githubusercontent.com/29150831/220236250-46df2988-5af6-417f-a02b-6979da17c330.png)
+
+
 ## Getting started
 
 Download our desktop app directly from our website [app.forloop.ai](app.forloop.ai) or use our platform directly from Python as a library
